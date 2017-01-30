@@ -1,4 +1,4 @@
-FROM daaxiles89/php-fpm:latest
+FROM axiles89/php-fpm:latest
 
 ENV TERM=xterm
 
